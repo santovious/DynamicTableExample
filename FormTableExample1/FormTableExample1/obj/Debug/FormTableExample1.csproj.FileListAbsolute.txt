@@ -1,0 +1,10 @@
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\bin\Debug\FormTableExample1.exe.config
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\bin\Debug\FormTableExample1.exe
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\bin\Debug\FormTableExample1.pdb
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\obj\Debug\FormTableExample1.csprojAssemblyReference.cache
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\obj\Debug\FormTableExample1.Form1.resources
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\obj\Debug\FormTableExample1.Properties.Resources.resources
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\obj\Debug\FormTableExample1.csproj.GenerateResource.cache
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\obj\Debug\FormTableExample1.csproj.CoreCompileInputs.cache
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\obj\Debug\FormTableExample1.exe
+C:\Users\JohnFirmin\source\repos\FormTableExample1\FormTableExample1\obj\Debug\FormTableExample1.pdb
